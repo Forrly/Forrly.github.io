@@ -434,28 +434,12 @@ nav {
   .images {
  overflow:hidden;
  height: auto;
- margin: 1em 7px 3em 7px ; 
+ margin: 1em 7px 2em 7px ; 
  }
  
   .images img {
- width: 43%;
+ width: 45%;
  }
- 
-	.Frame {
-	width: 115px;
-	margin:  1.5em 1em 7px 1em; 
-	}
-	.Frame iframe{
-	width: 115px;
-	}
-	
-	.FrameTwo{
-	width: 300px;
-	margin:  1.5em 1em 7px 1em; 
-	}
-	.FrameTwo iframe{
-	width: 300px;
-	}
  
  
 }
