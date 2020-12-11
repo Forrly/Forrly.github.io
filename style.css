@@ -320,13 +320,29 @@ nav {
 		width: 30.5%;
 	  }
 	  .FrameThree{
-	width:  300px;
-	height: 450px;
-	margin:  7px 7px 1em 7px;
-	border-radius: 2px;
-	overflow: hidden;
-	float:right; 
-}
+		width:  300px;
+		height: 450px;
+		margin:  7px 7px 1em 7px;
+		border-radius: 2px;
+		overflow: hidden;
+		float:center; 
+	  }
+	  .Frame {
+	width: 300px;
+	height:150px;
+	margin:  1.5em 1em 7px 3em; 
+	}
+	.Frame iframe{
+	width: 300px;
+	}
+	
+	.FrameTwo{
+	width: 350px;
+	margin:  1.5em 1em 7px 1em; 
+	}
+	.FrameTwo iframe{
+	width: 350px;
+	}
   }
   
   @media screen and (max-width:620px){
@@ -363,7 +379,7 @@ nav {
  width: 43%;
  }
  
- .Frame {
+	.Frame {
 	width: 115px;
 	margin:  1.5em 1em 7px 1em; 
 	}
