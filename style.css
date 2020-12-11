@@ -272,9 +272,7 @@ nav {
 
 .Frame{
 	width: 15%;
-	min-width: 150px;
 	height: 620px;
-	min-height: 300px;
 	float:left; 
 	margin:  4em 3% 7px 1em; 
 }
@@ -282,7 +280,6 @@ nav {
 .FrameTwo{
 	width: auto;
 	height: 620px;
-	min-height: 300px;
 	margin:  4em 7px 1em 7px;
 	border-radius: 2px;
 	overflow: hidden;
@@ -323,7 +320,7 @@ nav {
     margin: 7px 7px 7px 0; 
 	}
 
-.imageBRD{
+	.imageBRD{
 	width: 60%;
     height: auto;
 	float:left; 
@@ -331,10 +328,10 @@ nav {
 	border: 4px  #cbbbc4; 
     border-width: 4px;
 	border-style: groove; 
-}
+	}
 
-.imageRightBRD
-{
+	.imageRightBRD
+	{
 	width: 60%;
     height: auto;
 	float:right; 
@@ -342,27 +339,27 @@ nav {
 	border: 4px  #cbbbc4; 
     border-width: 4px;
 	border-style: groove; 
-}
+	}
 
-.imageC{
+	.imageC{
 	width: 60%;
     height: auto;
 	float:center; 
     margin: 8em 6em 6em 6em; 
-}
+	}
 
-.imageR{
+	.imageR{
 	width: 80%;
     height: auto;
 	float:center; 
     margin: 7px 0px 7px 5px; 
-}
-.imageRight{
+	}
+	.imageRight{
 	width: 60%;
     height: auto;
 	float:right; 
     margin: 7px 7px 7px 0; 
-}
+	}
 	   
 	  .logo{
 		height: 30.5%;
