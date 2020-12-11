@@ -315,6 +315,55 @@ nav {
 	  }
   }
    @media screen and (max-width:375px){
+	   
+	   .image{
+	width: 60%;
+    height: auto;
+	float:left; 
+    margin: 7px 7px 7px 0; 
+	}
+
+.imageBRD{
+	width: 60%;
+    height: auto;
+	float:left; 
+    margin: 7px 7px 7px 0; 
+	border: 4px  #cbbbc4; 
+    border-width: 4px;
+	border-style: groove; 
+}
+
+.imageRightBRD
+{
+	width: 60%;
+    height: auto;
+	float:right; 
+    margin: 7px 7px 7px 0; 
+	border: 4px  #cbbbc4; 
+    border-width: 4px;
+	border-style: groove; 
+}
+
+.imageC{
+	width: 60%;
+    height: auto;
+	float:center; 
+    margin: 8em 6em 6em 6em; 
+}
+
+.imageR{
+	width: 80%;
+    height: auto;
+	float:center; 
+    margin: 7px 0px 7px 5px; 
+}
+.imageRight{
+	width: 60%;
+    height: auto;
+	float:right; 
+    margin: 7px 7px 7px 0; 
+}
+	   
 	  .logo{
 		height: 30.5%;
 		width: 30.5%;
