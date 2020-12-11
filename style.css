@@ -314,6 +314,12 @@ nav {
 		width: 18.5%;
 	  }
   }
+   @media screen and (max-width:375px){
+	  .logo{
+		height: 30.5%;
+		width: 30.5%;
+	  }
+  }
   
   @media screen and (max-width:620px){
 	.logo{
