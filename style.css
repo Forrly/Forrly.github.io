@@ -314,14 +314,14 @@ nav {
    @media screen and (max-width:375px){
 	   
 	   .image{
-	width: 60%;
+	width: 65%;
     height: auto;
 	float:left; 
     margin: 7px 7px 7px 0; 
 	}
 
 	.imageBRD{
-	width: 60%;
+	width: 65%;
     height: auto;
 	float:left; 
     margin: 7px 7px 7px 0; 
@@ -331,7 +331,7 @@ nav {
 	}
 	
 	.images img {
-	width: 80%;
+	width: 100%;
 	height: auto;
 	}
 	.images {
@@ -342,7 +342,7 @@ nav {
 
 	.imageRightBRD
 	{
-	width: 60%;
+	width: 65%;
     height: auto;
 	float:right; 
     margin: 7px 7px 7px 0; 
@@ -352,20 +352,20 @@ nav {
 	}
 
 	.imageC{
-	width: 60%;
+	width: 65%;
     height: auto;
 	float:center; 
     margin: 8em 6em 6em 6em; 
 	}
 
 	.imageR{
-	width: 80%;
+	width: 85%;
     height: auto;
 	float:center; 
     margin: 7px 0px 7px 5px; 
 	}
 	.imageRight{
-	width: 60%;
+	width: 65%;
     height: auto;
 	float:right; 
     margin: 7px 7px 7px 0; 
