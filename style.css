@@ -319,6 +319,10 @@ nav {
 	float:left; 
     margin: 7px 7px 7px 0; 
 	}
+	
+	.BackR{
+		  font-size: 12px;
+	  }
 
 	.imageBRD{
 	width: 65%;
