@@ -473,27 +473,28 @@ nav {
 }
 
 
-
-.BackR{
-	border-radius: 10px ;
-	margin:1em;
-    background: #f8f4a3; 
-    color: #4b0082; 
-    padding: 4.5px; 
-	text-align:right;
-	text-decoration: none;
-	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+.BackR  {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  padding: 10px 30px;
+  margin: 10px 20px;
+  border-radius: 25px;
+  background-image: linear-gradient(45deg, #B0F0BC 0%, #ffffd2 45%, #9966cc 100%);
+  background-position: 100% 0;
+  background-size: 200% 200%;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  color: #F6F0F8;
+  box-shadow: 0 12px 25px 0 rgba(0,40,120,0.4);
+  transition: .5s;
 }
 .BackR:hover {
-    background: #d8bfd8; 
-    color: #973e95; 
-   } 
-.BackR:visited {
-    color: #800080; 
-   }
-.BackR:active {
-    color: #adffdd; 
-   }
+  box-shadow: 0 0 0 0 rgba(0,40,120,0);
+  background-position: 0 0;
+  color: #7256A3;
+}
 .Back {
 	border-radius: 10px ;
 	margin:1em;
