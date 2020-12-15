@@ -215,6 +215,94 @@ nav {
  -moz-transform: scale(1.2);
  -o-transform: scale(1.2);
  }
+ 
+ .descr{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	border-radius: 10px ;
+    display:none;
+    margin-left:650px;
+    padding:10px;
+    margin-top:17px;
+    background-image: linear-gradient(45deg, #E6DDDA 0%, #E6DDD2 45%, #d8d1ce 100%);
+    height:200px;
+    -moz-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    -webkit-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    box-shadow:0 5px 5px rgba(0,0,0,0.3);
+	 line-height: 1.5;
+}
+.descr1{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	border-radius: 10px ;
+    display:none;
+    margin-left:650px;
+    padding:10px;
+    margin-top:17px;
+	background-image: linear-gradient(45deg, #E6DDDA 0%, #E3D7ED 45%, #E3D7CB 100%);
+    height:200px;
+    -moz-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    -webkit-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    box-shadow:0 5px 5px rgba(0,0,0,0.3);
+	 line-height: 1.5;
+}
+.descr2{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	border-radius: 10px ;
+    display:none;
+    margin-left:650px;
+    padding:10px;
+    margin-top:17px;
+    background-image: linear-gradient(45deg, #E3D2E0 0%, #E3D2B8 45%, #E3C5B8 100%);
+    height:200px;
+    -moz-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    -webkit-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    box-shadow:0 5px 5px rgba(0,0,0,0.3);
+	 line-height: 1.5;
+}
+.descr3{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	border-radius: 10px ;
+    display:none;
+    margin-left:650px;
+    padding:10px;
+    margin-top:17px;
+    background-image: linear-gradient(45deg, #FFEFB6 0%, #FFD086 45%, #FF6660 100%);
+    height:200px;
+    -moz-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    -webkit-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    box-shadow:0 5px 5px rgba(0,0,0,0.3);
+	 line-height: 1.5;
+}
+.images:hover .descr{
+    display:block;
+    position:absolute;
+    top:120px;
+    z-index:9999;
+    width:400px;
+}
+.images:hover .descr1{
+    display:block;
+    position:absolute;
+    top:550px;
+    z-index:9999;
+    width:400px;
+}
+.images:hover .descr2{
+    display:block;
+    position:absolute;
+    top:1050px;
+    z-index:9999;
+    width:400px;
+}
+
+.images:hover .descr3{
+    display:block;
+    position:absolute;
+    top:1580px;
+    z-index:9999;
+    width:400px;
+}
+
+ 
   
 .image{
 	width: 30%;
